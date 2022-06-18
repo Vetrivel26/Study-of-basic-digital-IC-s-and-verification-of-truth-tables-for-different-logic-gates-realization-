@@ -70,7 +70,8 @@ Y= A⊕B
 ```
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: vetri
+Developed by: vetrivel s
+reg no : 212221240060
 */
 module Exercise01(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
